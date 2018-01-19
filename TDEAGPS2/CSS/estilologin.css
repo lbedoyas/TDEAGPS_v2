@@ -1,0 +1,25 @@
+body
+{
+	background-color: gray;
+}
+
+.container
+{
+	display: flex;
+	justify-content: center;	
+}
+
+
+.formulario
+{
+	width: 350px;
+}
+
+.boton
+{
+	text-align: center;
+}	
+
+footer{
+	text-align: center;
+}
